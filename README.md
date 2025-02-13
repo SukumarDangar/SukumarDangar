@@ -1,31 +1,4 @@
-### Hi there, I'm **SUKUMAR DANGAR** 👋
 
-I'm a **Front-End Web Developer** passionate about building interactive and user-friendly web applications.
-
----
-
-### 📫 Let's Connect:
-
-[![GitHub](https://img.shields.io/badge/GitHub-SUKUMARDANGAR-181717?style=flat-square&logo=githu)](https://github.com/SUKUMARDANGAR)
-[![Email](https://img.shields.io/badge/Email-soumikghosh09072004@gmail.com-red?style=flat-square&logo=gmail)](mailto:soumikghosh09072004@gmail.com)
-
----
-
-### 🛠 Tech Stack:
-- HTML, CSS, JavaScript
-- React.js, Vue.js
-- Node.js, Express.js
-- Git, GitHub
-
----
-
-![Soumik Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumikGhosh9&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumikGhosh9&layout=compact&theme=dark)
-
----
-
-⭐️ *Feel free to reach out or connect with me!*
 
 <h1 align="center">Hi 👋, I'm SUKUMAR DANGAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
